@@ -9,6 +9,7 @@ class Main {
       Thread t =  new Thread(p)
       t1.start();
     //ciao
+    //hello
   }
 }
 //istanziare un thread
